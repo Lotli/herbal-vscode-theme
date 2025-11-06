@@ -3,6 +3,8 @@
 
 Theme that turnes your VSCode window into a meadow
 
+[Download The Theme Here](https://marketplace.visualstudio.com/items?itemName=Lotli.herbal-theme)
+[Or Install In One Click](vscode:extension/Lotli.herbal-theme)
 
 ## Screenshots
 
