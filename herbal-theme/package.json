@@ -1,0 +1,39 @@
+{
+  "name": "herbal-theme",
+  "displayName": "Herbal Theme",
+  "description": "Theme that turns your VSCode window into a meadow",
+  "version": "0.0.1",
+  "publisher": "Lotli",
+  "icon": "images/icon.png",
+  "repository": {
+    "url": "https://github.com/Lotli/herbal-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "galleryBanner": {
+    "color": "#275e30",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "herb",
+    "meadow",
+    "green",
+    "herbal",
+    "dark theme",
+    "Lotli"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Herbal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Herbal-color-theme.json"
+      }
+    ]
+  }
+}
